@@ -4,8 +4,8 @@
  
 <div align="center">
   <a href="https://github.com/MicheloperBr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-S-LEHCIM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-S-LEHCIM&layout=compact&langs_count=7&theme=dark  "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicheloperBr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheloperBr&layout=compact&langs_count=7&theme=dark  "/>
 </div>
  <br><br>
   <div align="center"><br>
@@ -24,4 +24,4 @@
  
  <br> <br>
  
- ![Snake animation](https://github.com/N-S-LEHCIM/N-S-LEHCIM/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MicheloperBr/MicheloperBr/blob/output/github-contribution-grid-snake.svg)

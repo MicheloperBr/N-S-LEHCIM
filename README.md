@@ -1,14 +1,5 @@
-<h1  >Hi👋
-<br>
-I am  Micheloper✨ </h1>
-<div align="center"  >  
-<a href="https://www.youtube.com/@micheloper" target="blank">
-<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Micheloper"  />
-</a>
-<a href="https://www.tiktok.com/@MicheloperBr" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@Micheloper" />
-</a>
- </div>
-
+<h1  >Hi👋 I am  Micheloper✨ </h1>
+ 
  
 <h1>About Me </h1>
 <table   >
